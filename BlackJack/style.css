@@ -1,0 +1,36 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:darkmagenta;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+
+h1{
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+
+}
+
+#start{
+    border-style: initial;
+    background-color:blue;
+    width: 150px;
+    height: 50px;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+#newCard{
+    border-style: initial;
+    background-color: blue;
+    width: 150px;
+    height: 50px;
+    border-radius: 2px;
+    font-size: 15px;
+       
+}
